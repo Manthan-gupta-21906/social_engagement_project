@@ -1,0 +1,14 @@
+ENGAGEMENT OPTIMIZATION RECOMMENDATIONS
+============================================================
+Based on statistical analysis of 30 videos and 633 comments
+
+1. Prioritize LONG-FORM content (5+ min). It outperforms short content by 106% in viral coefficient.
+
+2. Target a Relatability Rate of 55%+ in comments. Videos above this threshold scored 9.7x higher in viral coefficient.
+
+3. Use 'to anyone feeling lonely and feels like they don’t belong | ...' as a content template — it achieved the highest viral coefficient (39.05) with 86% relatability.
+
+4. Top-performing content leans emotionally positive/uplifting (avg sentiment: 0.33). Hopeful, resolution-focused framing performs better than purely sad content.
+
+5. Use direct address or question-style titles (e.g., 'Feeling lonely?'). They outperform generic statement titles.
+

@@ -1,0 +1,39 @@
+TREND FORECASTING MODULE - REPORT
+==================================================
+
+Top Keywords in High-Viral Titles:
+  loneliness: 4
+  friends: 4
+  real: 3
+  like: 2
+  watch: 2
+  become: 2
+  anyone: 1
+  they: 1
+  dont: 1
+  belong: 1
+
+Top Emerging Keywords in Relatable Comments:
+  like: 229
+  people: 196
+  friends: 172
+  dont: 151
+  myself: 118
+  time: 113
+  alone: 113
+  even: 112
+  they: 111
+  because: 96
+  about: 91
+  from: 90
+  being: 89
+  always: 87
+  never: 83
+
+Emerging Related Struggle Themes:
+  friendship: 291 mentions
+  homesick: 58 mentions
+  social media: 45 mentions
+  introvert: 27 mentions
+  isolation: 19 mentions
+  anxiety: 18 mentions

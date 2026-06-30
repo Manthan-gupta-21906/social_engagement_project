@@ -1,0 +1,6 @@
+A/B TESTING FRAMEWORK - SUMMARY REPORT
+==================================================
+
+Test 1 - Short vs Long: Short=9.76, Long=20.07
+Test 2 - Hook Type: Direct/Question=18.01, Statement=14.21
+Test 3 - Relatability: High=28.30, Low=2.91

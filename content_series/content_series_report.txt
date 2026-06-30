@@ -1,0 +1,53 @@
+THE CONTENT SERIES — DATA-VALIDATED CONTENT PIPELINE
+============================================================
+Generated using benchmarks derived from 30 analyzed videos
+Relatability threshold: 55.0%+
+
+CS-01 — to anyone who lost their college friends | journal entry ep. 1
+  Theme: friendship
+  Format: Long-form (8-10 min) | Hook: Direct/Question Hook | Tone: Vulnerable, resolution-focused
+  Draft Caption: you didn't do anything wrong. friendships change in college, and it's the loneliest kind of grief nobody talks about. this is for anyone who feels like they're starting over.
+  Predicted Relatability: 55%
+  Viral Readiness Score: 63.0
+  Status: YES
+
+CS-02 — why going home doesn't feel like home anymore
+  Theme: homesickness
+  Format: Long-form (6-8 min) | Hook: Statement Hook | Tone: Vulnerable, resolution-focused
+  Draft Caption: nobody prepares you for the version of homesickness where home itself feels different now. you're not broken, you're just becoming someone new.
+  Predicted Relatability: 55%
+  Viral Readiness Score: 63.0
+  Status: YES
+
+CS-03 — stop comparing your real life to everyone's highlight reel
+  Theme: social media comparison
+  Format: Long-form (5-7 min) | Hook: Direct/Question Hook | Tone: Hopeful, resolution-focused
+  Draft Caption: if scrolling makes you feel like everyone else has it figured out except you, watch this before you compare yourself again.
+  Predicted Relatability: 25%
+  Viral Readiness Score: 45.0
+  Status: NEEDS REVISION
+
+CS-04 — being an introvert in college doesn't mean you're lonely (here's the difference)
+  Theme: introversion
+  Format: Long-form (6-8 min) | Hook: Statement Hook | Tone: Hopeful, resolution-focused
+  Draft Caption: needing alone time isn't the same as being lonely, but college makes it really hard to tell the difference. let's talk about it.
+  Predicted Relatability: 40%
+  Viral Readiness Score: 54.0
+  Status: NEEDS REVISION
+
+CS-05 — to anyone who eats lunch alone | journal entry ep. 2
+  Theme: isolation
+  Format: Long-form (7-9 min) | Hook: Direct/Question Hook | Tone: Vulnerable, resolution-focused
+  Draft Caption: eating alone in a crowded dining hall is its own specific kind of lonely. you're not invisible, even when it feels that way.
+  Predicted Relatability: 25%
+  Viral Readiness Score: 45.0
+  Status: NEEDS REVISION
+
+CS-06 — the anxiety nobody warns you about before college
+  Theme: anxiety
+  Format: Long-form (6-8 min) | Hook: Statement Hook | Tone: Hopeful, resolution-focused
+  Draft Caption: the anxious thoughts at 2am about whether anyone actually likes you are more common than you think. here's what helped me.
+  Predicted Relatability: 40%
+  Viral Readiness Score: 54.0
+  Status: NEEDS REVISION
+
